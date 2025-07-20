@@ -15,7 +15,7 @@ A simple and responsive ToDo List application built using **React** and **Vite**
 
 ## 📸 Screenshot
 
-![ToDo App Screenshot](src/assets/Screenshot%20(278).png)
+![ToDo App Screenshot](src/assets/Screenshot%20(280).png)
 
 ---
 
